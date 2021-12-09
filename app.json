@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "mycoolredirect",
     "name": "TP4",
     "slug": "TP4",
     "version": "1.0.0",
